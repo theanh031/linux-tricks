@@ -12,7 +12,7 @@
 
 ### Prepare before installation
 #### Some command linux
-
+- [Linux command](./linux-command.md)
 
 #### Build boot tool
 To build boot tool we need a usb about 4GB. Then follow steps under: 
